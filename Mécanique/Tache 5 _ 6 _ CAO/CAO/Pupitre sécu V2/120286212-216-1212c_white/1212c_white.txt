@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"SUPPLIER";"Apem Components";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-16112011-143148";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"APEM 1NC Momentary Push Button Switch, 12.2 (Dia.)mm, Panel Mount, 250V ac";"";
+"TraceParts.InstanceId";"10-16112011-143148C3IAXL9NCDOPATCYVVBZNH3P5";"";
+"TraceParts.PartTitle";"APEM 1NC Momentary Push Button Switch, 12.2 (Dia.)mm, Panel Mount, 250V ac";"";
+"TraceParts.PartStatusId";"";"";
+"REFERENCE";"1212C WHITE";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/1192908?cm_mmc=en-ds-_-mcad-_-traceparts-_-1192908'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"rs_stock_number";"1192908";"";
+"TraceParts.ClassPath";"";"";

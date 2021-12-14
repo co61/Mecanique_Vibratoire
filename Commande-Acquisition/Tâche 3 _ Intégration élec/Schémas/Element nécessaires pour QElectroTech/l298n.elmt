@@ -1,0 +1,38 @@
+<definition version="0.80" type="element" height="90" width="120" hotspot_x="44" hotspot_y="80" link_type="simple">
+    <uuid uuid="{1ebc5078-9ed9-45d3-a6a5-faba7dcb4b91}"/>
+    <names>
+        <name lang="fr">Nom du nouvel élément</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-35" y="-68" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" height="71" width="100" antialias="false"/>
+        <text x="-30" color="#000000" y="-25" rotation="0" text="o4" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="-30" color="#000000" y="-35" rotation="0" text="o3" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="-25" color="#000000" y="-60" rotation="0" text="in4" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="-14" color="#000000" y="-52" rotation="0" text="in3" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="-6" color="#000000" y="-60" rotation="0" text="in2" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="4" color="#000000" y="-52" rotation="0" text="in1" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="24" color="#000000" y="-52" rotation="0" text="5v" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="43" color="#000000" y="-52" rotation="0" text="12v&#xa;" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="32" color="#000000" y="-60" rotation="0" text="GND" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="52" color="#000000" y="-36" rotation="0" text="o2" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="52" color="#000000" y="-26" rotation="0" text="o1" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="-20" color="#000000" y="-5" rotation="0" text="L298N" font="Sans Serif,15,-1,5,50,0,0,0,0,0"/>
+        <text x="-34" color="#000000" y="-52" rotation="0" text="enb" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="12" color="#000000" y="-60" rotation="0" text="ena" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <terminal x="20" uuid="{62878a6e-95db-422c-92da-d4c03cc69e82}" y="-72" name="" orientation="n"/>
+        <terminal x="-30" uuid="{d0f10704-bf64-4622-b6fc-cfc474e7b5d0}" y="-72" name="" orientation="n"/>
+        <terminal x="-40" uuid="{c09235ef-7339-401b-a1d9-170631abacc2}" y="-40" name="" orientation="w"/>
+        <terminal x="70" uuid="{2617326e-d112-41ef-aa83-200be18b48bd}" y="-30" name="" orientation="e"/>
+        <terminal x="-20" uuid="{0614f21a-48cf-4fa3-bd67-1d0800bf2003}" y="-72" name="" orientation="n"/>
+        <terminal x="-40" uuid="{47383fc7-b7fc-47eb-adbd-b83a7ea05fd8}" y="-30" name="" orientation="w"/>
+        <terminal x="70" uuid="{cf6cb09a-8f6e-4bbc-a74f-4bb920e1f947}" y="-40" name="" orientation="e"/>
+        <terminal x="40" uuid="{d1208564-525e-4157-9d66-55fec3aa3765}" y="-72" name="" orientation="n"/>
+        <terminal x="30" uuid="{813a5a82-92be-4788-99a4-e4702d2ea453}" y="-72" name="" orientation="n"/>
+        <terminal x="0" uuid="{9c33e517-5ab6-4b4f-9844-377ee2910467}" y="-72" name="" orientation="n"/>
+        <terminal x="-10" uuid="{e4403f28-bc75-422c-824e-5a770fac0fc4}" y="-72" name="" orientation="n"/>
+        <terminal x="50" uuid="{2820c3f3-fd9a-45ec-8deb-7596d4eaae86}" y="-72" name="" orientation="n"/>
+        <terminal x="10" uuid="{554e05a3-bdbd-4a42-89fc-652b3a4c800c}" y="-72" name="" orientation="n"/>
+    </description>
+</definition>

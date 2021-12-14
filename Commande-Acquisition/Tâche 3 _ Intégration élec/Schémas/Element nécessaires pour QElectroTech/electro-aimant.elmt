@@ -1,0 +1,32 @@
+<definition hotspot_y="27" hotspot_x="18" link_type="simple" type="element" width="50" height="60" version="0.80">
+    <uuid uuid="{4ff6f02e-1221-4f39-9580-9f6fbf4fff7b}"/>
+    <names>
+        <name lang="fr">Moteur monophasé</name>
+        <name lang="it">Motore monofase</name>
+        <name lang="es">Motor monofásico</name>
+        <name lang="en">One-phase engine</name>
+        <name lang="nl">Motor 1AC</name>
+        <name lang="pt">Motor monofásico</name>
+        <name lang="cs">Jednofázový motor</name>
+        <name lang="el">Μονοφασικό μοτέρ</name>
+        <name lang="de">Wechselstrom Motor</name>
+        <name lang="pl">Silnik jednofazowy</name>
+        <name lang="ru">Однофазный эл. мотор</name>
+        <name lang="ar">محرّك أحادي الوجه</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text color="#000000" x="-11" font="Sans Serif,18,-1,5,50,0,0,0,0,0" rotation="0" text="EA" y="21"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="30" x="-9.25" antialias="true" y="-5"/>
+        <dynamic_text uuid="{3ab304aa-410f-48a0-8e4c-d92f60f4bdde}" frame="false" text_width="-1" z="3" Halignment="AlignLeft" x="24" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" y="1.5" Valignment="AlignTop" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end2="none" x2="10" y2="-4.25" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" antialias="false" y1="-16" end1="none" x1="10" length2="1.5"/>
+        <line end2="none" x2="0.25" y2="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" antialias="false" y1="-18" end1="none" x1="0.25" length2="1.5"/>
+        <terminal uuid="{aed10cc2-dd4d-4d29-832b-ba875bfa3491}" name="" x="0.25" y="-21" orientation="n"/>
+        <terminal uuid="{7496cb76-1c49-4f40-9ba8-967f5ebf5b96}" name="" x="10" y="-21" orientation="n"/>
+    </description>
+</definition>
